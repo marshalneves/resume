@@ -7,7 +7,7 @@
 **Skype:** marshalneves
 
 ## About me
-I'm a software engineer that loves to work with challenging and creative projects. As a programmer, I'm in a constant search for better practices and also experimenting new things.
+I'm a software engineer with 18+ years working with systems and solutions that loves to work with challenging and creative projects. As a programmer, I'm in a constant search for better practices and also experimenting new things.
 
 ## Skills
 
