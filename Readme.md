@@ -20,6 +20,7 @@ I'm a software engineer with 18+ years working with systems and solution. As a p
 * NodeJS
 * PHP
 * T-SQL
+* Crystal Reports
 * Git
 * MySQL - SQL-SERVER - MongoDB
 * Scrum 
@@ -35,6 +36,12 @@ I'm a software engineer with 18+ years working with systems and solution. As a p
 > Maintenance technician and participant in the migration / deployment team of the Frequency and access system, developed in the tools Oracle (Forms and Reports). Responsible for applying update patches, end-user support, analysis Integration of the supplier with Chesf's infrastructure team.
 
 > https://www.chesf.gov.br/
+
+**Web Developer** - Court of Accounts of the State of State - 2001 - 2004
+
+> Analysis and development of the System Integrated Computer Audit, process control and others. Stack: Visual Basic, Classic ASP, .NET, Crystal Reports and Microsoft SQL Server
+
+> http://www.tce.rn.gov.br/
 
 **Full-stack Developer (Volunteer)** - Projeto Acalanto Natal - Jan 2005 - Fev 2009
 
