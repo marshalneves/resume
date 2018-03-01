@@ -37,18 +37,19 @@ I'm a software engineer with 18+ years working with systems and solution. As a p
 
 > https://www.chesf.gov.br/
 
+**Full-stack Developer (Volunteer)** - Projeto Acalanto Natal - Jan 2012 - Present
+
+> The Acalanto Natal Project is a civil society and charity, with no economic purposes, composed of a group of community-friendly people who voluntarily proposed to develop a work of enlightenment, encouragement and referral to adoption, with the basic objective to avoid institutionalization of Children and adolescents and prevent their abandonment and marginalization.
+
+> I'm responsible for developing efficient, reusable and reliable front-end and back-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, PHP, MY-SQL
+
+> www.projetoacalantonatal.com.br
+
 **Web Developer** - Court of Accounts of the State of State - 2001 - 2004
 
 > Analysis and development of the System Integrated Computer Audit, process control and others. Stack: Visual Basic, Classic ASP, .NET, Crystal Reports and Microsoft SQL Server
 
 > http://www.tce.rn.gov.br/
-
-**Full-stack Developer (Volunteer)** - Projeto Acalanto Natal - Jan 2005 - Fev 2009
-
-> (www.projetoacalantonatal.com.br) The Acalanto Natal Project is a civil society and charity, with no economic purposes, composed of a group of community-friendly people who voluntarily proposed to develop a work of enlightenment, encouragement and referral to adoption, with the basic objective to avoid institutionalization of Children and adolescents and prevent their abandonment and marginalization.
-
-> I'm responsible for developing efficient, reusable and reliable front-end and back-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, PHP, MY-SQL
-
 
 ## Education
 
