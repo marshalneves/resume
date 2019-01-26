@@ -53,8 +53,8 @@ I'm a software engineer with 18+ years working with systems and solution. As a p
 
 ## Education
 
-**UNI-RN Corporate Systems Development Specialist** - 2009 - 2011
+**UNI-RN Corporate Systems Development (Specialist)**
 
-**Specialization in Systems and Business Analysis (ITECI-RN)** - 1999 - 1999
+**Systems and Business Analysis (ITECI-RN) (Specialist)**
 
-**UnP - Data Processing Technology (4 years)** - 1994 - 1998
+**UnP - Data Processing Technology (Graduation) (4 years)**
