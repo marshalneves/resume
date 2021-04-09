@@ -7,19 +7,28 @@
 **Skype:** marshalneves
 
 ## About me
-I'm a software engineer with 18+ years working with systems and solution. As a programmer, I'm love work with challenging and creative projects and I'm in a constant search for better practices and also experimenting new things.
+I am a software developer with an extensive background in web application. I have over 18 years of experience in the full lifecycle of software development process including requirements definition, design, prototyping, coding, interface implementation, testing, debugging and maintenance. I have experience in a variety of platforms, languages, and embedded systems.
+
+I'm passionate about creating apps with attractive UI, great UX, and solid architecture. I'm a really dedicated and self-motivated professional, with a lot of willingness towards learning new technologies and great communication skills.
+
+Nowadays, I'm responsible for designing, coding, unit testing and debugging application features as specified, using DotNet Core, Entity Framework, SQL-Server (backend) and Angular 4 (frontend).
+
+I pride myself on being a team player and results-oriented. I have excellent multi-tasking and interactive skills that have equipped me with the confidence to interact with individuals at all levels. I possess proven ability to integrate out-of-the-box thinking and problem-solving analysis to improve processes, systems, and methodologies; I can analyze code and engineer well-researched, cost-effective and responsive solutions. I am concentrating on developing my skills in application security and performance; I am dedicated to maintaining up-to-date industry knowledge and IT skills.
+
+I have demonstrated strength in the development, organization, implementation of major IT projects, and consistently delivered projects on-time and within budget. I am willing to obtain a challenging software engineer position to enhance and build upon my development as a technical professional and to contribute to the organization’s long-term strategies and success significantly.
+
+If you think that I could add value to your network, add me as a contact. You can also find me at mcneves75@gmail.com 
 
 ## Skills
 
-* HTML
-* CSS (Stylus, Sass, Less, PostCSS)
+* DotNet Core
+* Angular
 * Css Frameworks (Bootstrap, Materialize)
-* Grunt / Gulp / Webpack / Npm
 * Javascript (Design Patterns, Tests)
-* AngularJS
 * NodeJS
 * PHP
 * T-SQL
+* SQL-SERVER
 * Crystal Reports
 * Git
 * MySQL - SQL-SERVER - MongoDB
